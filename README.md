@@ -1,0 +1,1 @@
+This project is about creating a basic recipe website with all the HTML I was taught by The Odin Project.
